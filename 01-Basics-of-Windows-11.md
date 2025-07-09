@@ -18,3 +18,6 @@ For more information, see the following sections:
 - Preventing a laptop from entering sleep mode when it is closed
 - Wrapping up
 ## Using your PIV card for authentication
+To log into both the OPM network and Windows 11, you must use your PIV card to verify your identity and access rights. To do so, you must know how to insert your PIV card, when instructed, into a card reader installed in or attached to your system. Choose one of the following options:
+- If you have an agency-issued laptop computer, use the PIV card reader that is built into it. Depending on your model, the PIV card slot may be on either the left or the right side of your laptop.
+  

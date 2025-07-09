@@ -24,7 +24,7 @@ To log into both the OPM network and Windows 11, you must use your PIV card to v
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/02-laptop-right-side.jpeg" alt="A laptop with a PIV card reader on the right" style="width:40%; height:auto;">  
 - If you have an agency-issued desktop computer, use a PIV card reader connected to it, such as a USB reader
 or a keyboard reader.  
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/03-usb-card-reader.jpeg" alt="A USB card reader" style="width:40%; height:auto;">
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/03-usb-card-reader.jpeg" alt="A USB card reader" style="width:35%; height:auto;">
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/04-keyboard-card-reader.jpeg" alt="A keyboard card reader" style="width:40%; height:auto;">  
 ## Connecting to the network and logging in with Windows 11 on-site
 If you are logging into your system on-site at your agency, and it is connected by cable to the OPM Local Area Network (LAN), you can log directly into Windows on it. To do so, perform the following steps:

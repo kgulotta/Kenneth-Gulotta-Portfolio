@@ -35,3 +35,4 @@ If you are logging into your system on-site at your agency, and it is connected 
 4. At the OPM “Notice to Users,” click the **OK** button.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/06-notice-to-users.jpeg" alt="The OPM Notice to Users" style="width:30%; height:auto;">  
 5. At the “Other user” screen, click the **Sign-in options** link.
+  

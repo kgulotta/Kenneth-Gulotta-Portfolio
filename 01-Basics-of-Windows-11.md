@@ -28,4 +28,8 @@ or a keyboard reader.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/04-keyboard-card-reader.jpeg" alt="A keyboard card reader" style="width:40%; height:auto;">  
 ## Connecting to the network and logging in with Windows 11 on-site
 If you are logging into your system on-site at your agency, and it is connected by cable to the OPM Local Area Network (LAN), you can log directly into Windows on it. To do so, perform the following steps:
-1. 
+
+1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the “Using Your PIV Card for Authentication” section.
+2. Turn your computer on.
+3. At the Windows opening screen, press the Ctrl-Alt-Delete key combination to continue.
+4. 

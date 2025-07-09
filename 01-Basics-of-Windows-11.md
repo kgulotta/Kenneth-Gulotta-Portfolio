@@ -6,7 +6,8 @@ Windows 11 maintains and updates existing Windows functionality, while incorpora
 
 This guide provides basic information about using Windows 11 in the OPM IT environment, such as how to log into the network using your PIV card, as well as some quick tips about the system’s new features.
 
-For more information, see the following sections:
+## Contents
+For information about the basics of your Windows 11 system, see the following sections:
 - [Using your PIV card for authentication](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#using-your-piv-card-for-authentication)
 - Connecting to the network and logging in with Windows 11 on-site
 - Connecting to the network and logging in with Windows 11 from a remote location

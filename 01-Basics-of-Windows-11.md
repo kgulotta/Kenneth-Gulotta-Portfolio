@@ -31,5 +31,7 @@ If you are logging into your system on-site at your agency, and it is connected 
 
 1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the “Using Your PIV Card for Authentication” section.
 2. Turn your computer on.
-3. At the Windows opening screen, press the Ctrl-Alt-Delete key combination to continue.
-4. 
+3. At the Windows opening screen, press the **CTRL-ALT-DELETE** key combination to continue.
+4. At the OPM “Notice to Users,” click the **OK** button.  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/06-notice-to-users.jpeg" alt="The OPM Notice to Users" style="width:30%; height:auto;">  
+5. At the “Other user” screen, click the **Sign-in options** link.

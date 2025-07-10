@@ -43,6 +43,6 @@ If you are logging into your system on-site at your agency, and it is connected 
 
 6. If necessary, select the **Smart card** icon that accesses your federal identification number when you click it.
   > :memo: **Note:** Do **not** select the **Smart card** icon that accesses your LAN username when you click it, if one is present.  
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/08-smart-card-icon.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:40%; height:auto;">
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/08-smart-card-icon.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:38%; height:auto;">
 
 7. 

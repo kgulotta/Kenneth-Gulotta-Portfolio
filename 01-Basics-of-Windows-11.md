@@ -17,7 +17,8 @@ For information about the basics of your Windows 11 system, see the following se
 - Changing your LAN password from Windows 11
 - Setting default applications in Windows 11
 - Preventing a laptop from entering sleep mode when it is closed
-- Wrapping up
+- Wrapping up  
+
 ## Using your PIV card for authentication
 To log into both the agency network and Windows 11, you must use your PIV card to verify your identity and access rights. To do so, you must know how to insert your PIV card, when instructed, into a card reader installed in or attached to your system. Choose one of the following options:
 - If you have an agency-issued laptop computer, use the PIV card reader that is built into it. Depending on your model, the PIV card slot may be on either the left or the right side of your laptop.  
@@ -100,3 +101,9 @@ If you are logging in from a remote location, and you need to access the agencyâ
 
 15. Wait while the system completes the Windows login process and presents the Windows desktop screen.  
   > :memo: **Note:** If you did not log into the VPN, Windows 11 will prompt you to do so now. To respond to the prompts, use the information in Steps 7 and 8.
+
+## Logging off and shutting down
+When you are done working, save and close all applications. Then, turn off your laptop. To do so, click the Windows "start" button at the bottom of your desktop screen, click the **Power** icon at the lower-right corner of the "start" menu, and select the **Shut down** option from the resulting menu.  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/20-shut-down-option.jpeg" alt="The 'Shut down' option in the Windows 'start' menu" style="width:35%; height:auto;">  
+
+

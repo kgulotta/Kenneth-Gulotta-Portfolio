@@ -33,7 +33,7 @@ or a keyboard reader.
 ## Connecting to the network and logging in with Windows 11 on-site
 If you are logging into your system on-site at your agency, and it is connected by cable to the agency Local Area Network (LAN), you can log directly into Windows on it. To do so, perform the following steps:
 
-1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the “Using Your PIV Card for Authentication” section.
+1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the [“Using Your PIV Card for Authentication”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#using-your-piv-card-for-authentication) section.
 2. Turn your computer on.
 3. At the Windows opening screen, press the **CTRL-ALT-DELETE** key combination to continue.
 4. At the agency “Notice to Users,” click the **OK** button.  
@@ -57,7 +57,7 @@ If you are logging into your system on-site at your agency, and it is connected 
 ## Connecting to the network and logging in with Windows 11 from a remote location
 If you are logging in from a remote location, and you need to access the agency’s network resources, you must log into the OPM Virtual Private Network (VPN) as well as Windows 11. To do so, perform the following steps:
 
-1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the “Using Your PIV Card for Authentication” section.
+1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the [“Using Your PIV Card for Authentication”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#using-your-piv-card-for-authentication) section.
 2. Turn your computer on.
 3. At the Windows opening screen, press the **CTRL-ALT-DELETE** key combination to continue.
 4. At the agency “Notice to Users,” click the **OK** button.  

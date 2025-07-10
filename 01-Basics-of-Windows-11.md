@@ -113,7 +113,7 @@ To use a printer, you must add it to your system. When a printer is no longer av
   > :memo: **Note:** When OPM upgrades its network printers, you may have to add the new printer listings and delete the old ones.
 
 For information on adding and removing printers, see the following sections:
-- Adding a network printer
+- [Adding a network printer](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#adding-a-network-printer)
 - Removing a network printer
 
 ### Adding a network printer

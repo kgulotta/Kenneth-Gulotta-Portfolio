@@ -10,7 +10,7 @@ This guide provides basic information about using Windows 11 in the agency's IT 
 For information about the basics of your Windows 11 system, see the following sections:
 - [Using your PIV card for authentication](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#using-your-piv-card-for-authentication)
 - [Connecting to the network and logging in with Windows 11 on-site](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-on-site)
-- Connecting to the network and logging in with Windows 11 from a remote location
+- [Connecting to the network and logging in with Windows 11 from a remote location](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-from-a-remote-location)
 - Logging off and shutting down
 - Adding and removing network printers with Windows 11
 - Some new Windows 11 features

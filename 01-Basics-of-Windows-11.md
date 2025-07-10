@@ -45,4 +45,10 @@ If you are logging into your system on-site at your agency, and it is connected 
   > :memo: **Note:** Do **not** select the **Smart card** icon that accesses your LAN username when you click it, if one is present.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/08-smart-card-icon.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:38%; height:auto;">
 
-7. 
+7. Wait while the system reads your PIV card.
+
+8. At the “Smart card sign-in” prompt, type your PIV PIN in the “PIN” field, and then either click the arrow button or press the ENTER key.
+  > :memo: **Note:** Leave the “Username hint” field blank.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/09-smart-card-sign-in-prompt.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:30%; height:auto;">  
+
+

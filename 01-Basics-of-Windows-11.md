@@ -71,21 +71,32 @@ If you are logging in from a remote location, and you need to access the agency�
 
   > :memo: **Note:** If the system does not present the “VPN: Ready to connect” prompt in the next step, choose one of the following options:
   > * To continue attempting to sign into the network, click the **Cancel** button, wait a few seconds, and click the **Network sign-in** button again. To ensure that you have full access to resources or if you have been instructed to perform a software upgrade, you should log into the VPN before you log into Windows.  
-  > * To skip the network sign-in and log directly into Windows, click the **Cancel** button and go to Step 11.
+  > * To skip the network sign-in and log directly into Windows, click the **Cancel** button and go to Step 11.  
 
+7. At the “VPN: Ready to connect” prompt, click the **Connect** button, if necessary.  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/14-ready-to-connect-prompt.jpeg" alt="The 'VPN: Ready to connect' prompt" style="width:38%; height:auto;">  
 
-5. At the “Other user” screen, click the **Sign-in options** link.  
+8. At the “Please enter your PIN” prompt, type your PIV PIN in the “PIN” field and click the **OK** button.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/15-PIN-prompt.jpeg" alt="The 'Please enter your PIN' prompt" style="width:38%; height:auto;">  
+
+9. At the “Your client certificate will be used for authentication” prompt, ensure that the "Group" drop-down field is set to the **OPM-PIV-AUTH** option and click the **OK** button.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/16-client-cert-prompt.jpeg" alt="The client certificate prompt" style="width:35%; height:auto;">
+
+10. Wait while the system completes the VPN login process.
+  > :memo: **Note:** If the system does not present the “Other user” screen with the Sign-in options button that is listed in the next step, click the Cancel button to access it. 
+
+11. At the “Other user” screen, click the **Sign-in options** link.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/07-sign-in-options-link.jpeg" alt="An arrow pointing at the 'Sign-in options' link" style="width:30%; height:auto;">
 
-6. If necessary, select the **Smart card** icon that accesses your federal identification number when you click it.
+12. If necessary, select the **Smart card** icon that accesses your federal identification number when you click it.
   > :memo: **Note:** Do **not** select the **Smart card** icon that accesses your LAN username when you click it, if one is present.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/08-smart-card-icon.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:38%; height:auto;">
 
-7. Wait while the system reads your PIV card.
+13. Wait while the system reads your PIV card.
 
-8. At the “Smart card sign-in” prompt, type your PIV PIN in the “PIN” field, and then either click the arrow button or press the ENTER key.
+14. At the “Smart card sign-in” prompt, type your PIV PIN in the “PIN” field, and then either click the arrow button or press the ENTER key.
   > :memo: **Note:** Leave the “Username hint” field blank.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/09-smart-card-sign-in-prompt.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:30%; height:auto;">  
 
-9. Wait while the system completes the Windows login process and presents the Windows desktop screen.
-
+15. Wait while the system completes the Windows login process and presents the Windows desktop screen.  
+  > :memo: **Note:** If you did not log into the VPN, Windows 11 will prompt you to do so now. To respond to the prompts, use the information in Steps 7 and 8.

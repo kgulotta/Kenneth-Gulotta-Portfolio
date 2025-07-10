@@ -47,7 +47,7 @@ If you are logging into your system on-site at your agency, and it is connected 
 
 7. Wait while the system reads your PIV card.
 
-8. At the “Smart card sign-in” prompt, type your PIV PIN in the “PIN” field, and then either click the arrow button or press the ENTER key.
+8. At the “Smart card sign-in” prompt, type your PIV PIN in the “PIN” field, and then either click the arrow button or press the **ENTER** key.
   > :memo: **Note:** Leave the “Username hint” field blank.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/09-smart-card-sign-in-prompt.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:30%; height:auto;">  
 
@@ -83,7 +83,7 @@ If you are logging in from a remote location, and you need to access the agency�
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/16-client-cert-prompt.jpeg" alt="The client certificate prompt" style="width:35%; height:auto;">
 
 10. Wait while the system completes the VPN login process.
-  > :memo: **Note:** If the system does not present the “Other user” screen with the Sign-in options button that is listed in the next step, click the Cancel button to access it. 
+  > :memo: **Note:** If the system does not present the “Other user” screen with the **Sign-in options** button that is listed in the next step, click the **Cancel** button to access it. 
 
 11. At the “Other user” screen, click the **Sign-in options** link.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/07-sign-in-options-link.jpeg" alt="An arrow pointing at the 'Sign-in options' link" style="width:30%; height:auto;">
@@ -94,7 +94,7 @@ If you are logging in from a remote location, and you need to access the agency�
 
 13. Wait while the system reads your PIV card.
 
-14. At the “Smart card sign-in” prompt, type your PIV PIN in the “PIN” field, and then either click the arrow button or press the ENTER key.
+14. At the “Smart card sign-in” prompt, type your PIV PIN in the “PIN” field, and then either click the arrow button or press the **ENTER** key.
   > :memo: **Note:** Leave the “Username hint” field blank.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/09-smart-card-sign-in-prompt.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:30%; height:auto;">  
 

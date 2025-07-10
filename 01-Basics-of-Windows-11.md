@@ -133,5 +133,10 @@ To add a network printer, perform the following steps:
 3. At the resulting list of printers, scroll to the one you want to add and double-click it.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/23-available-printers.jpeg" alt="List of available printers on a server" style="width:35%; height:auto;">  
 
+4. Wait for Windows to locate and install the driver for the printer. When the system finishes adding the printer, it presents its status window.  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/24-printer-status-window.jpeg" alt="The printer status window" style="width:35%; height:auto;">
+
+  > :memo: **Note:** The time needed for this process can vary, depending on your system configuration and connection speed. It may take several minutes.  
+
 ### Removing a network printer
 

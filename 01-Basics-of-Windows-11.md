@@ -104,6 +104,7 @@ If you are logging in from a remote location, and you need to access the agencyâ
 
 ## Logging off and shutting down
 When you are done working, save and close all applications. Then, turn off your laptop. To do so, click the Windows "start" button at the bottom of your desktop screen, click the **Power** icon at the lower-right corner of the "start" menu, and select the **Shut down** option from the resulting menu.  
+
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/20-shut-down-option.jpeg" alt="The 'Shut down' option in the Windows 'start' menu" style="width:35%; height:auto;">  
 
 

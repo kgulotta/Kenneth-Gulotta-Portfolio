@@ -38,11 +38,11 @@ If you are logging into your system on-site at your agency, and it is connected 
 4. At the agency “Notice to Users,” click the **OK** button.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/06-notice-to-users.jpeg" alt="The agency Notice to Users" style="width:30%; height:auto;">
 
-6. At the “Other user” screen, click the **Sign-in options** link.  
+5. At the “Other user” screen, click the **Sign-in options** link.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/07-sign-in-options-link.jpeg" alt="An arrow pointing at the 'Sign-in options' link" style="width:30%; height:auto;">
 
-7. If necessary, select the **Smart card** icon that accesses your federal identification number when you click it.
+6. If necessary, select the **Smart card** icon that accesses your federal identification number when you click it.
   > :memo: **Note:** Do **not** select the **Smart card** icon that accesses your LAN username when you click it, if one is present.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/08-smart-card-icon.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:40%; height:auto;">
 
-8. 
+7. 

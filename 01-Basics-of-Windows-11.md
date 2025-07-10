@@ -36,7 +36,7 @@ If you are logging into your system on-site at your agency, and it is connected 
 2. Turn your computer on.
 3. At the Windows opening screen, press the **CTRL-ALT-DELETE** key combination to continue.
 4. At the agency “Notice to Users,” click the **OK** button.  
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/06-notice-to-users.jpeg" alt="The agency Notice to Users" style="width:30%; height:auto;">
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/06-notice-to-users.jpeg" alt="The agency Notice to Users" style="width:30%; height:auto;">  
 5. At the “Other user” screen, click the **Sign-in options** link.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/07-sign-in-options-link.jpeg" alt="An arrow pointing at the 'Sign-in options' link" style="width:30%; height:auto;">
 

@@ -107,4 +107,31 @@ When you are done working, save and close all applications. Then, turn off your 
 
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/20-shut-down-option.jpeg" alt="The 'Shut down' option in the Windows 'start' menu" style="width:35%; height:auto;">  
 
+## Adding and removing network printers with Windows 11
+The agency maintains network printers that you can access with your system, as long as you have the necessary permissions.  
+To use a printer, you must add it to your system. When a printer is no longer available, you should remove it from your system.  
+  > :memo: **Note:** When OPM upgrades its network printers, you may have to add the new printer listings and delete the old ones.
+
+For information on adding and removing printers, see the following sections:
+- Adding a network printer
+- Removing a network printer
+
+### Adding a network printer
+To add a network printer, perform the following steps:  
+
+1. Access the “Run” function. To do so, click the magnifying glass icon in the desktop tray (if necessary), type **run** in the “Type here to search” field, and then select the **Run** app from the resulting list.  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/21-access-Run.jpeg" alt="The 'Run' app in the Windows search results" style="width:35%; height:auto;">  
+
+2. At the "Run" window, type the server name associated with your desired printer's location in the "Open" field and click the **OK** button.
+  > :memo: **Note:** You can choose from the following server name options:
+  > - If your printer is at Site One, type **`\\SITE01-PRNTRS`** in the "Open" field.  
+  > - If your printer is at Site Two, type **`\\SITE02-PRNTRS`** in the "Open" field.
+  > - If your printer is at Site Two, type **`\\SITE02-PRNTRS`** in the "Open" field.
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/22-enter-printer-server.jpeg" alt="The 'Run' window" style="width:30%; height:auto;">  
+
+3. At the resulting list of printers, scroll to the one you want to add and double-click it.  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/23-available-printers.jpeg" alt="List of available printers on a server" style="width:35%; height:auto;">  
+
+### Removing a network printer
 

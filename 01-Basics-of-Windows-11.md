@@ -51,4 +51,4 @@ If you are logging into your system on-site at your agency, and it is connected 
   > :memo: **Note:** Leave the “Username hint” field blank.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/09-smart-card-sign-in-prompt.jpeg" alt="An arrow pointing at the 'Smart card' icon" style="width:30%; height:auto;">  
 
-
+9. Wait while the system completes the Windows login process and presents the Windows desktop screen

@@ -8,7 +8,7 @@ Kenneth Gulotta is technical writer by trade. He spends his days solving puzzles
 
 In his 25 years as a technical writer, Kenneth has learned many other skills, including graphic design and illustration; proposal development and marketing; coding; and UX design. He is currently building on these skills by taking the Google UX Design Certificate course.
 
-Kenneth lives in New Orleans, close to where he was born and raised, but he has also lived in Austin, Washington DC, and Baltimore.  
+Kenneth lives in New Orleans, close to where he was born and raised, but he has also lived in Austin TX, Washington DC, and Baltimore MD.  
 
 ## Portfolio Contents
 This portfolio contains the following items:  

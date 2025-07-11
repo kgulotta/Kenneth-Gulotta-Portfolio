@@ -164,7 +164,7 @@ Windows 11 includes new navigational methods and functional enhancements to simp
 - [The Windows 11 taskbar](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#the-windows-11-taskbar)
 - [Changes to the File Explorer interface](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changes-to-the-file-explorer-interface)
 
-  > :memo: **Note:** For more detailed information about the features of Windows 11, see [the Microsoft Windows support site](https://support.microsoft.com/en-us).
+  > :memo: **Note:** For more detailed information about the features of Windows 11, see [the Microsoft Windows support site](https://support.microsoft.com/en-us){:target="_blank"}.
 
 ### The Windows 11 Start menu
 With Windows 11, you get a “start” menu interface that puts more of your apps and frequently-used items within easy reach.  
@@ -311,7 +311,7 @@ In Windows 11, the default setting puts your laptop in sleep mode whenever you c
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/56-save-system-settings-button.jpeg" alt="The 'Save changes' button" style="width:50%; height:auto;">
 
 ## Wrapping Up
-Now that you have learned the basics of Windows 11, you are ready to use it. Just jump right in. If you want to study detailed information about Windows 11 and its applications, see [the Microsoft Windows support site](https://support.microsoft.com/en-us).  
+Now that you have learned the basics of Windows 11, you are ready to use it. Just jump right in. If you want to study detailed information about Windows 11 and its applications, see [the Microsoft Windows support site](https://support.microsoft.com/en-us){:target="_blank"}.  
 
 If you experience any issues with your system, contact the Help Desk using the following information:
 - By phone at 202-555-5555 (local) or 866-555-5555 (toll-free).

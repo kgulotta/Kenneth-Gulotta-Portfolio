@@ -15,7 +15,7 @@ For information about the basics of your Windows 11 system, see the following se
 - [Adding and removing network printers with Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#adding-and-removing-network-printers-with-windows-11)
 - [Some new Windows 11 features](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#some-new-windows-11-features)
 - [Changing your LAN password from Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changing-your-lan-password-from-windows-11)
-- Setting default applications in Windows 11
+- [Setting default applications in Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#setting-default-applications-in-windows-11)
 - Preventing a laptop from entering sleep mode when it is closed
 - Wrapping up  
 
@@ -260,12 +260,12 @@ On a regular basis, you will be prompted to change your OPM network password—t
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/43-password-icon.jpeg" alt="The 'Password' option" style="width:40%; height:auto;">  
 
 5. At the “Change a password” screen, enter your current password in the “Old password” field. Then, enter your new password in the "New password" and "Confirm password" fields. Finally, to submit the password change, either press the **ENTER** key or click the arrow button.
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/44-change-password-screen.jpeg" alt="The 'Change a password' screen" style="width:35%; height:auto;">
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/44-change-password-screen.jpeg" alt="The 'Change a password' screen" style="width:30%; height:auto;">
 
   > :memo: **Note:** Your password must be at least eight characters long, and it must contain at least three of the following four character types: upper-case letters, lower-case letters, numbers, and special characters such as percent symbols or dollar signs. The system remembers your previous six passwords. You may not re-use a password until you have used at least six others.  
 
 6. Wait while the system completes the password change. When it is done, click the **OK** button at the confirmation prompt.
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/45-password-confirmation-prompt.jpeg" alt="The password confirmation prompt" style="width:40%; height:auto;">  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/45-password-confirmation-prompt.jpeg" alt="The password confirmation prompt" style="width:30%; height:auto;">  
 
 ## Setting default applications in Windows 11
 Agency laptops are typically configured to use default programs for specific tasks—for example, Microsoft Edge  is the default web browser and Adobe Reader is the  default PDF reader. However, you can manage your default  settings, configuring them for your specific work needs. To do so, perform the following steps:  

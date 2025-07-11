@@ -173,13 +173,16 @@ When you click the new “start” button in the taskbar, the system presents th
 - The “search” field.
 - Your pinned apps. The menu includes a default set, but you can change the order of the apps and choose apps to pin. You can also click the **All apps** button to access your full menu of applications.
 - Recommended files that you have recently accessed. You can click the **More** button to see additional files.
-- The **Power** button, which provides access to shutdown options.  
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/30-start-menu.jpeg" alt="The Windows 11 start menu" style="width:35%; height:auto;">  
+- The **Power** button, which provides access to shutdown options.
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/30-start-menu.jpeg" alt="The Windows 11 start menu" style="width:45%; height:auto;">  
 
 To change the order of the pinned apps, click and drag the app that you want to move, and then release it in its new location.  
+
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/31-start-menu-pinned-apps.jpeg" alt="A Windows 11 pinned app being moved to a new location in the Start menu" style="width:35%; height:auto;">  
 
-To pin an additional app, search for it or locate it in the “All apps” list. Right-click it, and then choose the **Pin to Start** option from the resulting pop-up menu.
+To pin an additional app, search for it or locate it in the “All apps” list. Right-click it, and then choose the **Pin to Start** option from the resulting pop-up menu.  
+
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/32-pin-to-start-option.jpeg" alt="The 'Pin to Start' option" style="width:35%; height:auto;">  
 
 ## The Windows 11 taskbar

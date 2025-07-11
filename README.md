@@ -13,4 +13,7 @@ Kenneth lives in New Orleans, close to where he was born and raised, but he has 
 ## Portfolio Contents
 This portfolio contains the following items:  
 
-
+|Document|Description|
+|---|---|
+|01-Kenneth-Gulotta-Resume|The latest version of Kenneth's resume in PDF format.|
+|02-Basics-of-Windows-11|A longer "basics" manual for agency users of Windows 11, created in Markdown.|

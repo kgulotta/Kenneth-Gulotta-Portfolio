@@ -281,4 +281,22 @@ Agency laptops are typically configured to use default programs for specific tas
 3. Click the **Set default** button next to the prompt to make the application your default choice.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/48-set-default-button.jpeg" alt="The 'Set default' button" style="width:50%; height:auto;">  
 
+You can also choose to set default apps by file type. To do so, perform the following steps:  
+
+1. At the “Default apps” screen, scroll to the bottom of the list of apps, and then click the **Choose defaults by file type** option.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/49-choose-defaults-by-type-option.jpeg" alt="The 'Default apps' screen" style="width:50%; height:auto;">  
+
+2. Locate and click the default for a file type (for example, PDFs) that you want to change.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/50-file-type-list.jpeg" alt="The list of file types" style="width:50%; height:auto;">  
+
+3. Select your default application from the listed options and click the **OK** button.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/51-default-select-prompt.jpeg" alt="The 'Select a default app' window" style="width:50%; height:auto;">
+
+## Preventing a laptop from entering sleep mode when it is closed
+In Windows 11, the default setting puts your laptop in sleep mode whenever you close it, even if you are connected to a dock and an external monitor. You can change this default setting to keep your laptop active when it is closed. To do so, perform the following steps:  
+
+
+
+
+
 

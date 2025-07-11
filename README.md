@@ -15,7 +15,7 @@ This portfolio contains the following items:
 
 |Document|Description|
 |---|---|
-|[Resume](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Kenneth-Gulotta-Resume.pdf)|The latest version of Kenneth's resume. It is a PDF exported from Word and touched up in Adobe Acrobat for accessibility.|
+|[Resume](01-Kenneth-Gulotta-Resume.pdf)|The latest version of Kenneth's resume. It is a PDF exported from Word and touched up in Adobe Acrobat for accessibility.|
 |[The Basics of Windows 11](02-Basics-of-Windows-11.md)|A longer "basics" manual for users of Windows 11. It is a Markdown file formatted for GitHub.|
 |Clearing the Cache in Your Internet Browser|A quick guide that tells users how to clear their Microsoft Edge and Google Chrome caches. It is a Markdown file formatted for GitHub.|
 |The Basics of Microsoft Teams in Office 365|A longer "basics" manual for users of Microsoft Teams. It is an accessible PDF formatted to maximize visual appeal. The Adobe InDesign source file includes the bulk of the accessibility configuration.|

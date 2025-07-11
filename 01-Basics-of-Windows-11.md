@@ -17,7 +17,7 @@ For information about the basics of your Windows 11 system, see the following se
 - [Changing your LAN password from Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changing-your-lan-password-from-windows-11)
 - [Setting default applications in Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#setting-default-applications-in-windows-11)
 - [Preventing a laptop from entering sleep mode when it is closed](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#preventing-a-laptop-from-entering-sleep-mode-when-it-is-closed)
-- Wrapping up  
+- [Wrapping up](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#wrapping-up)  
 
 ## Using your PIV card for authentication
 To log into both the agency network and Windows 11, you must use your PIV card to verify your identity and access rights. To do so, you must know how to insert your PIV card, when instructed, into a card reader installed in or attached to your system. Choose one of the following options:

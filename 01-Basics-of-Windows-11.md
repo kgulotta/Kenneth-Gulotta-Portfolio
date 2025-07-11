@@ -295,6 +295,14 @@ You can also choose to set default apps by file type. To do so, perform the foll
 ## Preventing a laptop from entering sleep mode when it is closed
 In Windows 11, the default setting puts your laptop in sleep mode whenever you close it, even if you are connected to a dock and an external monitor. You can change this default setting to keep your laptop active when it is closed. To do so, perform the following steps:  
 
+1. At the Windows 11 desktop screen, click the magnifying glass icon in the taskbar, if necessary. Then, type **control panel** in the "Type here to search field" and select the **Control Panel** option from the list of possible matches.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/52-access-Control-Panel.jpeg" alt="The 'Default apps' option" style="width:40%; height:auto;">
+
+2. Click the **Hardware and Sound** category in the “Control Panel” window.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/53-Control-Panel-categories.jpeg" alt="The 'Hardware and Sound' option" style="width:40%; height:auto;">
+
+3. In the “Power Options” window, click the **Choose what closing the lid does** option.
+
 
 
 

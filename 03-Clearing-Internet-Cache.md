@@ -29,3 +29,5 @@ To clear your cache, perform the following steps:
 
 ## Contact information
 If you have questions about these procedures or need assistance, contact the Help Desk using the following information:  
+- By phone at 202-555-5555 (local) or 866-555-5555 (toll-free).
+- By email at **HelpDesk@agency.gov**.

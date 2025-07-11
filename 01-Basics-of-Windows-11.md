@@ -247,6 +247,6 @@ To access additional File Explorer commands, click the **More** button (the one 
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/41-access-more-File-Explorer-commands.jpeg" alt="The 'More' menu" style="width:40%; height:auto;">  
 
 ## Changing your LAN password from Windows 11
-
+On a regular basis, you will be prompted to change your OPM network password—the Local Area Network (LAN) password that you use to log onto OPM webmail and other network systems. To do so, perform the following steps:
 
 

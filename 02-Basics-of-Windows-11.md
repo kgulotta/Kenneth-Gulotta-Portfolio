@@ -9,15 +9,15 @@ This guide provides basic information about using Windows 11 in the agency's IT 
 ## Contents
 For information about the basics of your Windows 11 system, see the following sections:
 - [Using your PIV card for authentication](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#using-your-piv-card-for-authentication)
-- [Connecting to the network and logging in with Windows 11 on-site](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-on-site)
-- [Connecting to the network and logging in with Windows 11 from a remote location](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-from-a-remote-location)
-- [Logging off and shutting down](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#logging-off-and-shutting-down)
-- [Adding and removing network printers with Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#adding-and-removing-network-printers-with-windows-11)
-- [Some new Windows 11 features](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#some-new-windows-11-features)
-- [Changing your LAN password from Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changing-your-lan-password-from-windows-11)
-- [Setting default applications in Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#setting-default-applications-in-windows-11)
-- [Preventing a laptop from entering sleep mode when it is closed](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#preventing-a-laptop-from-entering-sleep-mode-when-it-is-closed)
-- [Wrapping up](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#wrapping-up)  
+- [Connecting to the network and logging in with Windows 11 on-site](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-on-site)
+- [Connecting to the network and logging in with Windows 11 from a remote location](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-from-a-remote-location)
+- [Logging off and shutting down](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#logging-off-and-shutting-down)
+- [Adding and removing network printers with Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#adding-and-removing-network-printers-with-windows-11)
+- [Some new Windows 11 features](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#some-new-windows-11-features)
+- [Changing your LAN password from Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#changing-your-lan-password-from-windows-11)
+- [Setting default applications in Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#setting-default-applications-in-windows-11)
+- [Preventing a laptop from entering sleep mode when it is closed](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#preventing-a-laptop-from-entering-sleep-mode-when-it-is-closed)
+- [Wrapping up](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#wrapping-up)  
 
 ## Using your PIV card for authentication
 To log into both the agency network and Windows 11, you must use your PIV card to verify your identity and access rights. To do so, you must know how to insert your PIV card, when instructed, into a card reader installed in or attached to your system. Choose one of the following options:
@@ -33,7 +33,7 @@ or a keyboard reader.
 ## Connecting to the network and logging in with Windows 11 on-site
 If you are logging into your system on-site at your agency, and it is connected by cable to the agency Local Area Network (LAN), you can log directly into Windows on it. To do so, perform the following steps:
 
-1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the [“Using Your PIV Card for Authentication”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#using-your-piv-card-for-authentication) section.
+1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the [“Using Your PIV Card for Authentication”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#using-your-piv-card-for-authentication) section.
 2. Turn your computer on.
 3. At the Windows opening screen, press the **CTRL-ALT-DELETE** key combination to continue.
 4. At the agency “Notice to Users,” click the **OK** button.  
@@ -57,7 +57,7 @@ If you are logging into your system on-site at your agency, and it is connected 
 ## Connecting to the network and logging in with Windows 11 from a remote location
 If you are logging in from a remote location, and you need to access the agency’s network resources, you must log into the OPM Virtual Private Network (VPN) as well as Windows 11. To do so, perform the following steps:
 
-1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the [“Using Your PIV Card for Authentication”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#using-your-piv-card-for-authentication) section.
+1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the [“Using Your PIV Card for Authentication”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#using-your-piv-card-for-authentication) section.
 2. Turn your computer on.
 3. At the Windows opening screen, press the **CTRL-ALT-DELETE** key combination to continue.
 4. At the agency “Notice to Users,” click the **OK** button.  
@@ -113,8 +113,8 @@ To use a printer, you must add it to your system. When a printer is no longer av
   > :memo: **Note:** When OPM upgrades its network printers, you may have to add the new printer listings and delete the old ones.
 
 For information on adding and removing printers, see the following sections:
-- [Adding a network printer](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#adding-a-network-printer)
-- [Removing a network printer](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#removing-a-network-printer)
+- [Adding a network printer](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#adding-a-network-printer)
+- [Removing a network printer](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#removing-a-network-printer)
 
 ### Adding a network printer
 To add a network printer, perform the following steps:  
@@ -160,9 +160,9 @@ To remove a network printer, perform the following steps:
 
 ## Some New Windows 11 Features
 Windows 11 includes new navigational methods and functional enhancements to simplify how you access and interact with the tools you use most often. For information, see the following sections:  
-- [The Windows 11 start menu](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#the-windows-11-start-menu)
-- [The Windows 11 taskbar](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#the-windows-11-taskbar)
-- [Changes to the File Explorer interface](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changes-to-the-file-explorer-interface)
+- [The Windows 11 start menu](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#the-windows-11-start-menu)
+- [The Windows 11 taskbar](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#the-windows-11-taskbar)
+- [Changes to the File Explorer interface](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#changes-to-the-file-explorer-interface)
 
   > :memo: **Note:** For more detailed information about the features of Windows 11, see [the Microsoft Windows support site](https://support.microsoft.com/en-us).
 
@@ -250,7 +250,7 @@ To access additional File Explorer commands, click the **More** button (the one 
 On a regular basis, you will be prompted to change your OPM network password—the Local Area Network (LAN) password that you use to log onto OPM webmail and other network systems. To do so, perform the following steps:  
 
 1. If necessary, turn on your computer and connect to the OPM network.
-  > :memo: **Note:** In order to change your password, you must either connect directly to the Local Area Network (LAN) if you are on-site or connect to the Virtual Private Network (VPN) if you are off-site. For information, see the [“Connecting to the Network and Logging in with Windows 11 On-Site”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-on-site) and [“Connecting to the Network and Logging in with Windows 11 from a Remote Location”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-from-a-remote-location) sections.  
+  > :memo: **Note:** In order to change your password, you must either connect directly to the Local Area Network (LAN) if you are on-site or connect to the Virtual Private Network (VPN) if you are off-site. For information, see the [“Connecting to the Network and Logging in with Windows 11 On-Site”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-on-site) and [“Connecting to the Network and Logging in with Windows 11 from a Remote Location”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-from-a-remote-location) sections.  
 
 2. Press the **CTRL-ALT-DELETE** key combination.  
 3. Click the **Change a password** option.

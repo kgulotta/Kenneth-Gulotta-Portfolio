@@ -274,8 +274,11 @@ Agency laptops are typically configured to use default programs for specific tas
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/46-access-default-apps.jpeg" alt="The 'Default apps' option" style="width:40%; height:auto;">  
 
 2. To set an application as your default (for example, to make Google Chrome your default web browser), locate and click the application in the list.
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/47-default-apps-list.jpeg" alt="The 'Default apps' screen" style="width:40%; height:auto;">  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/47-default-apps-list.jpeg" alt="The 'Default apps' screen" style="width:50%; height:auto;">  
 
   > :memo: **Note:** If the “Default apps” list does not appear, drag a corner of the “Settings” window to expand it and access all its panels.  
 
-3. 
+3. Click the **Set default** button next to the prompt to make the application your default choice.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/48-set-default-button.jpeg" alt="The 'Set default' button" style="width:50%; height:auto;">  
+
+

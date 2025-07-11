@@ -14,7 +14,7 @@ For information about the basics of your Windows 11 system, see the following se
 - [Logging off and shutting down](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#logging-off-and-shutting-down)
 - [Adding and removing network printers with Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#adding-and-removing-network-printers-with-windows-11)
 - [Some new Windows 11 features](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#some-new-windows-11-features)
-- Changing your LAN password from Windows 11
+- [Changing your LAN password from Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changing-your-lan-password-from-windows-11)
 - Setting default applications in Windows 11
 - Preventing a laptop from entering sleep mode when it is closed
 - Wrapping up  

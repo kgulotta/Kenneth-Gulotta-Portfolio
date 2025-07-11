@@ -302,9 +302,17 @@ In Windows 11, the default setting puts your laptop in sleep mode whenever you c
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/53-Control-Panel-categories.jpeg" alt="The 'Hardware and Sound' option" style="width:50%; height:auto;">
 
 3. In the “Power Options” window, click the **Choose what closing the lid does** option.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/54-power-options-window.jpeg" alt="The 'Power options' window" style="width:50%; height:auto;">
 
+4. In the “System Settings” window, click the drop-down menu button for the **When I close the lid setting** under the “Plugged in” column, and then select the **Do nothing** option.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/55-close-lid-options.jpeg" alt="The 'System Settings' window" style="width:50%; height:auto;">
 
+5. Click the **Save changes** button and close any setup windows that are left open.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/56-save-system-settings-button.jpeg" alt="The 'Save changes' button" style="width:50%; height:auto;">
 
+## Wrapping Up
+Now that you have learned the basics of Windows 11, you are ready to use it. Just jump right in. If you want to study detailed information about Windows 11 and its applications, see [the Microsoft Windows support site](https://support.microsoft.com/en-us).  
 
-
-
+If you experience any issues with your system, contact the Help Desk using the following information:
+- By phone at 202-555-5555 (local) or 866-555-5555 (toll-free).
+- By email at **HelpDesk@agency.gov**.

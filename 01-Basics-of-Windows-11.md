@@ -145,7 +145,7 @@ To remove a network printer, perform the following steps:
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/25-access-Settings.jpeg" alt="The Windows start menu and Settings icon" style="width:35%; height:auto;">  
 
 2. In the “Settings” window, select the **Bluetooth & devices** option in the left-hand column, and then select the **Printers & scanners** option in the right-hand pane.
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/26-select-Printers-Scanners.jpeg" alt="The 'Bluetooth & devices' Settings window" style="width:30%; height:auto;">
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/26-select-Printers-Scanners.jpeg" alt="The 'Bluetooth & devices' Settings window" style="width:35%; height:auto;">
 
   > :memo: **Note:** If the option does not appear, drag a corner of the “Settings” window to expand it and access all its panels.
 
@@ -162,7 +162,8 @@ To remove a network printer, perform the following steps:
 Windows 11 includes new navigational methods and functional enhancements to simplify how you access and interact with the tools you use most often. For information, see the following sections:  
 - The Windows 11 start menu
 - The Windows 11 taskbar
-- Changes to the File Explorer interface  
+- Changes to the File Explorer interface
+
   > :memo: **Note:** For more detailed information about the features of Windows 11, see [the Microsoft Windows support site](https://support.microsoft.com/en-us).
 
 ### The Windows 11 start menu

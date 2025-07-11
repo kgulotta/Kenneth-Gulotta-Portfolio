@@ -270,5 +270,8 @@ On a regular basis, you will be prompted to change your OPM network password—t
 ## Setting default applications in Windows 11
 Agency laptops are typically configured to use default programs for specific tasks—for example, Microsoft Edge  is the default web browser and Adobe Reader is the  default PDF reader. However, you can manage your default  settings, configuring them for your specific work needs. To do so, perform the following steps:  
 
+1. At the Windows 11 desktop screen, click the magnifying glass icon in the taskbar, if necessary. Then, type **default** in the "Type here to search field" and select the **Default apps** option from the list of possible matches.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/46-access-default-apps.jpeg" alt="The 'Default apps' option" style="width:40%; height:auto;">
+
 
 

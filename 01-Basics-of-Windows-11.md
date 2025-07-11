@@ -217,7 +217,7 @@ When you click the **Task View** icon, you access a simple interface for:
 - Creating new desktops that you can configure for specific tasks, choosing which applications you want to use as defaults.
 - Choosing which of your available desktops to use.
 
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/37-task-view-icon.jpeg" alt="The Windows 11 'Task View' icon" style="width:40%; height:auto;">  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/37-task-view-icon.jpeg" alt="The Windows 11 'Task View' icon" style="width:35%; height:auto;">  
 
 You can also choose additional applications to include in your Windows 11 taskbar. To do so, search for the application or locate it in the “All apps” list. Right click it, select the **More** option from the resulting pop-up menu, and select the **Pin to taskbar** option.  
 

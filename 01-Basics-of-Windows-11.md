@@ -250,7 +250,7 @@ To access additional File Explorer commands, click the **More** button (the one 
 On a regular basis, you will be prompted to change your OPM network password—the Local Area Network (LAN) password that you use to log onto OPM webmail and other network systems. To do so, perform the following steps:  
 
 1. If necessary, turn on your computer and connect to the OPM network.
-  > :memo: **Note:** In order to change your password, you must either connect directly to the Local Area Network (LAN) if you are on-site or connect to the Virtual Private Network (VPN) if you are off-site. For information, see the [“Connecting to the Network and Logging in with Windows 11 On-Site”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-on-site) and “Connecting to the Network and Logging in with Windows 11 from a Remote Location” sections.  
+  > :memo: **Note:** In order to change your password, you must either connect directly to the Local Area Network (LAN) if you are on-site or connect to the Virtual Private Network (VPN) if you are off-site. For information, see the [“Connecting to the Network and Logging in with Windows 11 On-Site”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-on-site) and [“Connecting to the Network and Logging in with Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-from-a-remote-location) from a Remote Location” sections.  
 
 2. 
 

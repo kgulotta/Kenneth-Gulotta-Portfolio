@@ -299,7 +299,7 @@ In Windows 11, the default setting puts your laptop in sleep mode whenever you c
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/52-access-Control-Panel.jpeg" alt="The 'Default apps' option" style="width:40%; height:auto;">
 
 2. Click the **Hardware and Sound** category in the “Control Panel” window.
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/53-Control-Panel-categories.jpeg" alt="The 'Hardware and Sound' option" style="width:40%; height:auto;">
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/53-Control-Panel-categories.jpeg" alt="The 'Hardware and Sound' option" style="width:50%; height:auto;">
 
 3. In the “Power Options” window, click the **Choose what closing the lid does** option.
 

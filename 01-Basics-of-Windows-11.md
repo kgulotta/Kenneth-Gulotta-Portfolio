@@ -162,7 +162,7 @@ To remove a network printer, perform the following steps:
 Windows 11 includes new navigational methods and functional enhancements to simplify how you access and interact with the tools you use most often. For information, see the following sections:  
 - [The Windows 11 start menu](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#the-windows-11-start-menu)
 - [The Windows 11 taskbar](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#the-windows-11-taskbar)
-- Changes to the File Explorer interface
+- [Changes to the File Explorer interface](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changes-to-the-file-explorer-interface)
 
   > :memo: **Note:** For more detailed information about the features of Windows 11, see [the Microsoft Windows support site](https://support.microsoft.com/en-us).
 

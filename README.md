@@ -1,4 +1,16 @@
 # Kenneth-Gulotta-Portfolio
 ## Repository Description
-Kenneth Gulotta's portfolio of technical writing and design pieces. It includes two types of documents: Markdown files and PDFs exported from Adobe InDesign.  
-> :memo: **Note:** To see the full functionality of the PDF documents, you must download them and open them with a PDF-capable app such as Adobe Acrobat, Adobe Reader, Microsoft Edge, or Google Chrome.
+Kenneth Gulotta's portfolio of technical writing and design pieces.  
+> :memo: **Note:** The sample documents in this portfolio include Markdown documents formatted for viewing in GitHub as well as PDFs generated with Adobe InDesign. To see the full functionality of the PDF documents, you must download them and open them with a PDF-capable app such as Adobe Acrobat, Adobe Reader, Microsoft Edge, or Google Chrome.  
+
+## Kenneth's Bio
+Kenneth Gulotta is technical writer by trade. He spends his days solving puzzles that involve communication and design. He also has an MA in creative writing from UT-Austin and a PhD in English from Tulane University.  
+
+In his 25 years as a technical writer, Kenneth has learned many other skills, including graphic design and illustration; proposal development and marketing; coding; and UX design. He is currently building on these skills by taking the Google UX Design Certificate course.
+
+Kenneth lives in New Orleans, close to where he was born and raised, but he has also lived in Austin, Washington DC, and Baltimore.  
+
+## Portfolio Contents
+This portfolio contains the following items:  
+
+

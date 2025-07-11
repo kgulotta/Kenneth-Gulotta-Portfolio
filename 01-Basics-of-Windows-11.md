@@ -166,11 +166,21 @@ Windows 11 includes new navigational methods and functional enhancements to simp
 
   > :memo: **Note:** For more detailed information about the features of Windows 11, see [the Microsoft Windows support site](https://support.microsoft.com/en-us).
 
-### The Windows 11 start menu
+### The Windows 11 Start menu
 With Windows 11, you get a “start” menu interface that puts more of your apps and frequently-used items within easy reach.  
 
 When you click the new “start” button in the taskbar, the system presents the extended menu—a panel of suggested applications and dedicated options. It includes access to:
 - The “search” field.
 - Your pinned apps. The menu includes a default set, but you can change the order of the apps and choose apps to pin. You can also click the **All apps** button to access your full menu of applications.
 - Recommended files that you have recently accessed. You can click the **More** button to see additional files.
-- The **Power** button, which provides access to shutdown options.
+- The **Power** button, which provides access to shutdown options.  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/30-start-menu.jpeg" alt="The Windows 11 start menu" style="width:35%; height:auto;">  
+
+To change the order of the pinned apps, click and drag the app that you want to move, and then release it in its new location.  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/31-start-menu-pinned-apps.jpeg" alt="A Windows 11 pinned app being moved to a new location in the Start menu" style="width:35%; height:auto;">  
+
+To pin an additional app, search for it or locate it in the “All apps” list. Right-click it, and then choose the **Pin to Start** option from the resulting pop-up menu.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/32-pin-to-start-option.jpeg" alt="The 'Pin to Start' option" style="width:35%; height:auto;">  
+
+## The Windows 11 taskbar
+

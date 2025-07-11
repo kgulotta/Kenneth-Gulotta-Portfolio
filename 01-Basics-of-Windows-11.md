@@ -211,7 +211,7 @@ When you click the **Search** icon or field, you access a robust search interfac
 - Access sets of suggested search terms.
 - Access a set of the top, most-searched apps.
 
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/36-labelled-search-panel.jpeg" alt="The Windows 11 Search interface" style="width:40%; height:auto;">  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/36-labelled-search-panel.jpeg" alt="The Windows 11 Search interface" style="width:43%; height:auto;">  
 
 When you click the **Task View** icon, you access a simple interface for:  
 - Creating new desktops that you can configure for specific tasks, choosing which applications you want to use as defaults.

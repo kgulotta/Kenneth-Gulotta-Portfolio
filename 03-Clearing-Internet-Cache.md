@@ -5,7 +5,7 @@ At times, a Help Desk technician may ask you to clear the cache in your Internet
 To clear your cache, perform the following steps:
 1. Exit any applications that you are accessing through your browser.
 2. Choose one of the following options:
-    - If you are using Microsoft Edge, go to the “Clearing the Cache in Microsoft Edge” section.
+    - If you are using Microsoft Edge, go to the [“Clearing the Cache in Microsoft Edge”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/03-Clearing-Internet-Cache.md#clearing-the-cache-in-microsoft-edge) section.
     - If you are using Google Chrome, go to the “Clearing the Cache in Google Chrome” section.
 
 ## Clearing the cache in Microsoft Edge

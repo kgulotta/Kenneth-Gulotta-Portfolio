@@ -175,7 +175,7 @@ When you click the new “start” button in the taskbar, the system presents th
 - Recommended files that you have recently accessed. You can click the **More** button to see additional files.
 - The **Power** button, which provides access to shutdown options.
 
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/30-start-menu.jpeg" alt="The Windows 11 start menu" style="width:45%; height:auto;">  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/30-start-menu.jpeg" alt="The Windows 11 start menu" style="width:50%; height:auto;">  
 
 To change the order of the pinned apps, click and drag the app that you want to move, and then release it in its new location.  
 
@@ -183,7 +183,70 @@ To change the order of the pinned apps, click and drag the app that you want to 
 
 To pin an additional app, search for it or locate it in the “All apps” list. Right-click it, and then choose the **Pin to Start** option from the resulting pop-up menu.  
 
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/32-pin-to-start-option.jpeg" alt="The 'Pin to Start' option" style="width:35%; height:auto;">  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/32-pin-to-start-option.jpeg" alt="The 'Pin to Start' option" style="width:40%; height:auto;">  
 
-## The Windows 11 taskbar
+### The Windows 11 taskbar
+The Windows 11 taskbar gives you access to all the applications, settings, and files on your system. The new version is streamlined for easy access and centered in your system tray by default.  
+
+The basic taskbar provides icons that enable you to access:
+- The “start” menu.
+- The “Search” interface.
+- The “Task View” functions, which enable you to choose or create different desktops for managing specific sets of tasks or jobs.
+- File Explorer.
+- Microsoft Edge.  
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/33-labelled-Win11-taskbar.jpeg" alt="The labelled Windows 11 taskbar" style="width:40%; height:auto;">  
+
+The agency configures your laptop to align your taskbar to the left the first time you log into Windows 11. The automatic alignment process may take a few minutes. You can also manually change the alignment of your taskbar. To do so, perform the following steps:  
+
+1. Right-click an empty space on the taskbar and select the **Taskbar settings** option from the resulting menu.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/34-taskbar-settings-option.jpeg" alt="The 'Taskbar settings' option" style="width:40%; height:auto;">  
+
+2. Open the Taskbar behaviors section at the bottom of the resulting window. Then, click the **Taskbar alignment** drop-down menu and choose whether the taskbar should be aligned to the left or centered.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/35-taskbar-behaviors.jpeg" alt="The 'Taskbar alignment' drop-down menu" style="width:40%; height:auto;">
+
+When you click the **Search** icon or field, you access a robust search interface that enables you to:  
+- Enter terms to search for apps and tools on your system and the Internet.
+- Access a list of your recent search results.
+- Access sets of suggested search terms.
+- Access a set of the top, most-searched apps.
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/36-labelled-search-panel.jpeg" alt="The Windows 11 Search interface" style="width:40%; height:auto;">  
+
+When you click the **Task View** icon, you access a simple interface for:  
+- Creating new desktops that you can configure for specific tasks, choosing which applications you want to use as defaults.
+- Choosing which of your available desktops to use.
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/37-task-view-icon.jpeg" alt="The Windows 11 'Task View' icon" style="width:40%; height:auto;">  
+
+You can also choose additional applications to include in your Windows 11 taskbar. To do so, search for the application or locate it in the “All apps” list. Right click it, select the **More** option from the resulting pop-up menu, and select the **Pin to taskbar** option.  
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/38-pin-to-taskbar-option.jpeg" alt="The Windows 11 'Pin to taskbar' option" style="width:40%; height:auto;">  
+
+### Changes to the File Explorer interface
+In Windows 11, File Explorer includes the functions you know from past versions, but with a new, simplified interface. Rather than navigating a Ribbon and menu system, you can access most of the basic functions directly through icons at the top of the window.  
+
+For example, each File Explorer window includes icons that enable you to:
+- Cut files or folders in preparation to paste them somewhere else.
+- Copy files or folders.
+- Paste files or folders in your current location.
+- Rename files or folders.
+- Share files or folders with colleagues.
+- Delete files or folders.
+- Choose how items are sorted in your current window.
+- Choose a different presentation method for the items in your current window.  
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/39-labelled-File-Explorer-icons.jpeg" alt="The labelled File Explorer window" style="width:40%; height:auto;">  
+
+To create new folders or files in your current window, click the **New** button in the upperleft corner, and then select an option from the resulting drop-down menu.  
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/40-new-folders-files.jpeg" alt="The 'New' menu" style="width:40%; height:auto;">  
+
+To access additional File Explorer commands, click the **More** button (the one that looks like an ellipsis) in the upper-right corner of the window, and then select an option from the resulting drop-down menu.  
+
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/41-access-more-File-Explorer-commands.jpeg" alt="The 'More' menu" style="width:40%; height:auto;">  
+
+## Changing your LAN password from Windows 11
+
+
 

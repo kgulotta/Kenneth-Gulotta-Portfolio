@@ -16,7 +16,7 @@ For information about the basics of your Windows 11 system, see the following se
 - [Some new Windows 11 features](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#some-new-windows-11-features)
 - [Changing your LAN password from Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changing-your-lan-password-from-windows-11)
 - [Setting default applications in Windows 11](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#setting-default-applications-in-windows-11)
-- Preventing a laptop from entering sleep mode when it is closed
+- [Preventing a laptop from entering sleep mode when it is closed](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#preventing-a-laptop-from-entering-sleep-mode-when-it-is-closed)
 - Wrapping up  
 
 ## Using your PIV card for authentication
@@ -290,7 +290,7 @@ You can also choose to set default apps by file type. To do so, perform the foll
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/50-file-type-list.jpeg" alt="The list of file types" style="width:50%; height:auto;">  
 
 3. Select your default application from the listed options and click the **OK** button.
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/51-default-select-prompt.jpeg" alt="The 'Select a default app' window" style="width:50%; height:auto;">
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/51-default-select-prompt.jpeg" alt="The 'Select a default app' window" style="width:40%; height:auto;">
 
 ## Preventing a laptop from entering sleep mode when it is closed
 In Windows 11, the default setting puts your laptop in sleep mode whenever you close it, even if you are connected to a dock and an external monitor. You can change this default setting to keep your laptop active when it is closed. To do so, perform the following steps:  

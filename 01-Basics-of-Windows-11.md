@@ -312,7 +312,7 @@ In Windows 11, the default setting puts your laptop in sleep mode whenever you c
 
 ## Wrapping Up
 Now that you have learned the basics of Windows 11, you are ready to use it. Just jump right in. If you want to study detailed information about Windows 11 and its applications, see [the Microsoft Windows support site](https://support.microsoft.com/en-us).  
-
+<a href="https://support.microsoft.com/en-us" target="_blank">the Microsoft Windows support site</a>
 If you experience any issues with your system, contact the Help Desk using the following information:
 - By phone at 202-555-5555 (local) or 866-555-5555 (toll-free).
 - By email at **HelpDesk@agency.gov**.

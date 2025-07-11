@@ -254,7 +254,7 @@ On a regular basis, you will be prompted to change your OPM network password—t
 
 2. Press the **CTRL-ALT-DELETE** key combination.  
 3. Click the **Change a password** option.
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/42-change-password-option.jpeg" alt="The 'Change a password' option" style="width:40%; height:auto;">  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/42-change-password-option.jpeg" alt="The 'Change a password' option" style="width:35%; height:auto;">  
 
 4. Ensure that the system is set to change the LAN password. To do so, click the **Sign-in options** link, if necessary, and then select the **Password** option (the icon shaped like a key).
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/43-password-icon.jpeg" alt="The 'Password' option" style="width:30%; height:auto;">  

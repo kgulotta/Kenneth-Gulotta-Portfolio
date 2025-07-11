@@ -164,7 +164,7 @@ Windows 11 includes new navigational methods and functional enhancements to simp
 - [The Windows 11 taskbar](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#the-windows-11-taskbar)
 - [Changes to the File Explorer interface](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/01-Basics-of-Windows-11.md#changes-to-the-file-explorer-interface)
 
-  > :memo: **Note:** For more detailed information about the features of Windows 11, see [the Microsoft Windows support site](https://support.microsoft.com/en-us){:target="_blank"}.
+  > :memo: **Note:** For more detailed information about the features of Windows 11, see [the Microsoft Windows support site](https://support.microsoft.com/en-us?target=_blank).
 
 ### The Windows 11 Start menu
 With Windows 11, you get a “start” menu interface that puts more of your apps and frequently-used items within easy reach.  

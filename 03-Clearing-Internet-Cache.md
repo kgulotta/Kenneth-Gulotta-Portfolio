@@ -10,4 +10,5 @@ To clear your cache, perform the following steps:
 
 ## Clearing the cache in Microsoft Edge
 1. In the Microsoft Edge window, click the **Settings and more** icon (the one that looks like an ellipsis) in the upper-right corner. Then, select the **Settings** option in the resulting menu.
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Clearing-Cache/01-access-Edge-settings.jpeg" alt="The 'Settings' option" style="width:40%; height:auto;">
 

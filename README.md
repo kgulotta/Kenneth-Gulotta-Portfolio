@@ -1,7 +1,7 @@
 # Kenneth-Gulotta-Portfolio
 ## Repository Description
 Kenneth Gulotta's portfolio of technical writing and design pieces.  
-> :memo: **Note:** The sample documents in this portfolio include Markdown documents formatted for viewing in GitHub as well as PDFs generated with Adobe InDesign. To see the full functionality of the PDF documents, you must download them and open them with a PDF-capable app such as Adobe Acrobat, Adobe Reader, Microsoft Edge, or Google Chrome. To download them, use the **Download raw file** button:
+> :memo: **Note:** The sample documents in this portfolio include Markdown documents formatted for viewing in GitHub as well as PDFs generated with Adobe InDesign. To see the full functionality of the PDF documents, you must download them and open them with a PDF-capable app such as Adobe Acrobat, Adobe Reader, Microsoft Edge, or Google Chrome. To download them, use the **Download raw file** button:  
 ![The "Download raw file" button](Graphics/Download-icon.jpg)
 
 ## Kenneth's Bio

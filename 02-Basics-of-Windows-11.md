@@ -304,7 +304,7 @@ In Windows 11, the default setting puts your laptop in sleep mode whenever you c
 3. In the “Power Options” window, click the **Choose what closing the lid does** option.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/54-power-options-window.jpeg" alt="The 'Power options' window" style="width:50%; height:auto;">
 
-4. In the “System Settings” window, click the drop-down menu button for the **When I close the lid setting** under the “Plugged in” column, and then select the **Do nothing** option.
+4. In the “System Settings” window, click the drop-down menu button for the **When I close the lid** setting under the “Plugged in” column, and then select the **Do nothing** option.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/55-close-lid-options.jpeg" alt="The 'System Settings' window" style="width:50%; height:auto;">
 
 5. Click the **Save changes** button and close any setup windows that are left open.

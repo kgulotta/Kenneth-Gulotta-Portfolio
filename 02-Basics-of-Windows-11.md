@@ -202,7 +202,7 @@ The agency configures your laptop to align your taskbar to the left the first ti
 1. Right-click an empty space on the taskbar and select the **Taskbar settings** option from the resulting menu.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/34-taskbar-settings-option.jpeg" alt="The 'Taskbar settings' option" style="width:20%; height:auto;">  
 
-2. Open the Taskbar behaviors section at the bottom of the resulting window. Then, click the **Taskbar alignment** drop-down menu and choose whether the taskbar should be aligned to the left or centered.
+2. Open the **Taskbar behaviors** section at the bottom of the resulting window. Then, click the **Taskbar alignment** drop-down menu and choose whether the taskbar should be aligned to the left or centered.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/35-taskbar-behaviors.jpeg" alt="The 'Taskbar alignment' drop-down menu" style="width:43%; height:auto;">
 
 When you click the **Search** icon or field, you access a robust search interface that enables you to:  

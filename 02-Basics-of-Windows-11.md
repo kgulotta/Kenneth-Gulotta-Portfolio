@@ -126,7 +126,7 @@ To add a network printer, perform the following steps:
   > :memo: **Note:** You can choose from the following server name options:
   > - If your printer is at Site One, type **`\\SITE01-PRNTRS`** in the "Open" field.  
   > - If your printer is at Site Two, type **`\\SITE02-PRNTRS`** in the "Open" field.
-  > - If your printer is at Site Two, type **`\\SITE02-PRNTRS`** in the "Open" field.
+  > - If your printer is at Site Three, type **`\\SITE03-PRNTRS`** in the "Open" field.
 
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/22-enter-printer-server.jpeg" alt="The 'Run' window" style="width:30%; height:auto;">  
 

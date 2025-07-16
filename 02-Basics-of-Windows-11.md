@@ -55,7 +55,7 @@ If you are logging into your system on-site at your agency, and it is connected 
 9. Wait while the system completes the Windows login process and presents the Windows desktop screen.
 
 ## Connecting to the network and logging in with Windows 11 from a remote location
-If you are logging in from a remote location, and you need to access the agency’s network resources, you must log into the OPM Virtual Private Network (VPN) as well as Windows 11. To do so, perform the following steps:
+If you are logging in from a remote location, and you need to access the agency’s network resources, you must log into the agency's Virtual Private Network (VPN) as well as Windows 11. To do so, perform the following steps:
 
 1. Ensure that your computer is completely shut down. Then, insert your PIV card into your system’s card reader. For information, see the [“Using Your PIV Card for Authentication”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#using-your-piv-card-for-authentication) section.
 2. Turn your computer on.
@@ -64,7 +64,7 @@ If you are logging in from a remote location, and you need to access the agency�
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/11-notice-to-users.jpeg" alt="The agency Notice to Users" style="width:30%; height:auto;">
 
 5. If you need to connect your computer to wireless to access the Internet, do so by clicking the wireless network button in the lower-right corner of the Windows 11 system tray and following the connection prompts.  
-  > :memo: **Note:** You must connect your computer to the Internet in order to access the OPM network.  
+  > :memo: **Note:** You must connect your computer to the Internet in order to access the agency's network.  
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/12-wireless-icon.jpeg" alt="The wireless network button on the desktop screen" style="width:38%; height:auto;">
 
 6. After your system connects to the Internet, click the **Network sign-in** button in the lower-right corner of the system tray.
@@ -80,7 +80,7 @@ If you are logging in from a remote location, and you need to access the agency�
 8. At the “Please enter your PIN” prompt, type your PIV PIN in the “PIN” field and click the **OK** button.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/15-PIN-prompt.jpeg" alt="The 'Please enter your PIN' prompt" style="width:38%; height:auto;">  
 
-9. At the “Your client certificate will be used for authentication” prompt, ensure that the "Group" drop-down field is set to the **OPM-PIV-AUTH** option and click the **OK** button.
+9. At the “Your client certificate will be used for authentication” prompt, ensure that the "Group" drop-down field is set to the **PIV-AUTH** option and click the **OK** button.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/16-client-cert-prompt.jpeg" alt="The client certificate prompt" style="width:35%; height:auto;">
 
 10. Wait while the system completes the VPN login process.
@@ -110,7 +110,7 @@ When you are done working, save and close all applications. Then, turn off your 
 ## Adding and removing network printers with Windows 11
 The agency maintains network printers that you can access with your system, as long as you have the necessary permissions.  
 To use a printer, you must add it to your system. When a printer is no longer available, you should remove it from your system.  
-  > :memo: **Note:** When OPM upgrades its network printers, you may have to add the new printer listings and delete the old ones.
+  > :memo: **Note:** When the agency upgrades its network printers, you may have to add the new printer listings and delete the old ones.
 
 For information on adding and removing printers, see the following sections:
 - [Adding a network printer](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#adding-a-network-printer)
@@ -247,9 +247,9 @@ To access additional File Explorer commands, click the **More** button (the one 
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/41-access-more-File-Explorer-commands.jpeg" alt="The 'More' menu" style="width:40%; height:auto;">  
 
 ## Changing your LAN password from Windows 11
-On a regular basis, you will be prompted to change your OPM network password—the Local Area Network (LAN) password that you use to log onto OPM webmail and other network systems. To do so, perform the following steps:  
+On a regular basis, you will be prompted to change your agency network password—the Local Area Network (LAN) password that you use to log onto agency webmail and other network systems. To do so, perform the following steps:  
 
-1. If necessary, turn on your computer and connect to the OPM network.
+1. If necessary, turn on your computer and connect to the agency's network.
   > :memo: **Note:** In order to change your password, you must either connect directly to the Local Area Network (LAN) if you are on-site or connect to the Virtual Private Network (VPN) if you are off-site. For information, see the [“Connecting to the Network and Logging in with Windows 11 On-Site”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-on-site) and [“Connecting to the Network and Logging in with Windows 11 from a Remote Location”](https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/02-Basics-of-Windows-11.md#connecting-to-the-network-and-logging-in-with-windows-11-from-a-remote-location) sections.  
 
 2. Press the **CTRL-ALT-DELETE** key combination.  

@@ -289,7 +289,7 @@ You can also choose to set default apps by file type. To do so, perform the foll
 2. Locate and click the default for a file type (for example, PDFs) that you want to change.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/50-file-type-list.jpeg" alt="The list of file types" style="width:50%; height:auto;">  
 
-3. Select your default application from the listed options and click the **OK** button.
+3. Select your default application from the listed options and click the **Set default** button.
   <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/51-default-select-prompt.jpeg" alt="The 'Select a default app' window" style="width:35%; height:auto;">
 
 ## Preventing a laptop from entering sleep mode when it is closed

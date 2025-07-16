@@ -21,15 +21,11 @@ For information about the basics of your Windows 11 system, see the following se
 
 ## Using your PIV card for authentication
 To log into both the agency network and Windows 11, you must use your PIV card to verify your identity and access rights. To do so, you must know how to insert your PIV card, when instructed, into a card reader installed in or attached to your system. Choose one of the following options:
-- If you have an agency-issued laptop computer, use the PIV card reader that is built into it. Depending on your model, the PIV card slot may be on either the left or the right side of your laptop.  
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/01-laptop-left-side.jpeg" alt="A laptop with a PIV card reader on the left" style="width:40%; height:auto;">
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/02-laptop-right-side.jpeg" alt="A laptop with a PIV card reader on the right" style="width:40%; height:auto;">
-  
+- If you have an agency-issued laptop computer, use the PIV card reader that is built into it. Depending on your model, the PIV card slot may be on either the left or the right side of your laptop.   
 - If you have an agency-issued desktop computer, use a PIV card reader connected to it, such as a USB reader
 or a keyboard reader.  
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/03-usb-card-reader.jpeg" alt="A USB card reader" style="width:35%; height:auto;">
-  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/04-keyboard-card-reader.jpeg" alt="A keyboard card reader" style="width:40%; height:auto;">
-  
+  <img src="https://github.com/kgulotta/Kenneth-Gulotta-Portfolio/blob/main/Graphics/Basics-Windows-11/01-new-card-readers.jpg" alt="Card reader types" style="width:60%; height:auto;">
+    
 ## Connecting to the network and logging in with Windows 11 on-site
 If you are logging into your system on-site at your agency, and it is connected by cable to the agency Local Area Network (LAN), you can log directly into Windows on it. To do so, perform the following steps:
 

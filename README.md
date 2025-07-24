@@ -1,7 +1,7 @@
 # Kenneth-Gulotta-Portfolio
 ## Repository Description
 Kenneth Gulotta's portfolio of technical writing and design pieces.  
-> :memo: **Note:** The sample documents in this portfolio include Markdown documents formatted for viewing in GitHub as well as PDFs generated with Adobe InDesign. To see the full functionality of the PDF documents, you must download them and open them with a PDF-capable app such as Adobe Acrobat, Adobe Reader, Microsoft Edge, or Google Chrome. To download them, use the **Download raw file** button:  
+> :memo: **Note:** The sample documents in this portfolio include Markdown documents formatted for viewing in GitHub as well as Word documents and PDFs generated with Adobe InDesign. To see the full functionality of the PDF and Word files (including those in the **misc** and **relics** folders), you must download them and open them with the appropriate app. To download files, use the **Download raw file** button:  
 ![The "Download raw file" button](Graphics/Download-icon.jpg)
 
 ## Kenneth's Bio
@@ -21,3 +21,5 @@ This portfolio contains the following items:
 |[Clearing the Cache in Your Internet Browser](03-Clearing-Internet-Cache.md)|A quick guide that tells users how to clear their Microsoft Edge and Google Chrome caches. It is a Markdown file formatted for GitHub.|
 |[The Basics of Microsoft Teams in Office 365](04-Basics-of-Microsoft-Teams.pdf)|A longer "basics" manual for users of Microsoft Teams. It is an accessible PDF formatted to maximize visual appeal. The Adobe InDesign source file includes the bulk of the accessibility configuration.|
 |[Recording Meetings in Microsoft Teams](05-Recording-Teams-Meetings.pdf)|A quick guide that highlights how to record Teams meeting.  It is an accessible PDF formatted to maximize visual appeal. The Adobe InDesign source file includes the bulk of the accessibility configuration.|
+
+> :memo: **Note:** I have also included some items that are best defined as "curiosities" in the **relics** folder. No longer in use, they are artifacts that I created to meet organizational needs when the available tools were limited.
